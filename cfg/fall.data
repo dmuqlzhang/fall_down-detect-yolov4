@@ -1,0 +1,5 @@
+classes= 2
+train  = /mnt/data/user/zhangqinlu/dataset/fall_obj/all_train_0826.txt
+valid  = /mnt/data/user/zhangqinlu/dataset/fall_obj/all_test_0826.txt
+names = data/fall.names
+backup = backup/
